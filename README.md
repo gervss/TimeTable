@@ -1,6 +1,4 @@
 # TimeTable
-Thesis Project 
-
 Time Table is a Program that you can save your time event like School & Office anything else without Hassle 
 
 Features 
