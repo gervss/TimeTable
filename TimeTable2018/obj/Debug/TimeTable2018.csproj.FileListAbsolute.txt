@@ -1,0 +1,24 @@
+c:\users\khulets\documents\visual studio 2012\Projects\TimeTable2018\TimeTable2018\bin\Debug\TimeTable2018.exe.config
+c:\users\khulets\documents\visual studio 2012\Projects\TimeTable2018\TimeTable2018\bin\Debug\TimeTable2018.exe
+c:\users\khulets\documents\visual studio 2012\Projects\TimeTable2018\TimeTable2018\bin\Debug\TimeTable2018.pdb
+c:\users\khulets\documents\visual studio 2012\Projects\TimeTable2018\TimeTable2018\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\khulets\documents\visual studio 2012\Projects\TimeTable2018\TimeTable2018\obj\Debug\TimeTable2018.csprojResolveAssemblyReference.cache
+c:\users\khulets\documents\visual studio 2012\Projects\TimeTable2018\TimeTable2018\obj\Debug\TimeTable2018.Form1.resources
+c:\users\khulets\documents\visual studio 2012\Projects\TimeTable2018\TimeTable2018\obj\Debug\TimeTable2018.Properties.Resources.resources
+c:\users\khulets\documents\visual studio 2012\Projects\TimeTable2018\TimeTable2018\obj\Debug\TimeTable2018.csproj.GenerateResource.Cache
+c:\users\khulets\documents\visual studio 2012\Projects\TimeTable2018\TimeTable2018\obj\Debug\TimeTable2018.exe
+c:\users\khulets\documents\visual studio 2012\Projects\TimeTable2018\TimeTable2018\obj\Debug\TimeTable2018.pdb
+c:\users\khulets\documents\visual studio 2012\Projects\TimeTable2018\TimeTable2018\bin\Debug\Database1.mdf
+c:\users\khulets\documents\visual studio 2012\Projects\TimeTable2018\TimeTable2018\bin\Debug\Database1_log.ldf
+C:\Users\l430\Desktop\TimeTable2018\TimeTable2018\bin\Debug\TimeTable2018.exe.config
+C:\Users\l430\Desktop\TimeTable2018\TimeTable2018\obj\Debug\TimeTable2018.exe
+C:\Users\l430\Desktop\TimeTable2018\TimeTable2018\obj\Debug\TimeTable2018.pdb
+C:\Users\l430\Desktop\TimeTable2018\TimeTable2018\bin\Debug\Database1.mdf
+C:\Users\l430\Desktop\TimeTable2018\TimeTable2018\bin\Debug\Database1_log.ldf
+C:\Users\l430\Desktop\TimeTable2018\TimeTable2018\bin\Debug\TimeTable2018.exe
+C:\Users\l430\Desktop\TimeTable2018\TimeTable2018\bin\Debug\TimeTable2018.pdb
+C:\Users\l430\Desktop\TimeTable2018\TimeTable2018\obj\Debug\TimeTable2018.csprojResolveAssemblyReference.cache
+C:\Users\l430\Desktop\TimeTable2018\TimeTable2018\obj\Debug\TimeTable2018.Form1.resources
+C:\Users\l430\Desktop\TimeTable2018\TimeTable2018\obj\Debug\TimeTable2018.Properties.Resources.resources
+C:\Users\l430\Desktop\TimeTable2018\TimeTable2018\obj\Debug\TimeTable2018.csproj.GenerateResource.Cache
+C:\Users\l430\Desktop\TimeTable2018\TimeTable2018\bin\Debug\Bunifu_UI_v1.5.3.dll
